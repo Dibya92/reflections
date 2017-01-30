@@ -1,4 +1,10 @@
-What happens when you initialize a repository? Why do you need to do it?
+1)What happens when you initialize a repository? Why do you need to do it?
+
+Ans:When we initialize a git repository, git adds a folder named .git within the directory 
+    in which it is initialized.
+	We need to do this to start recording revision of the files within the directory.
+	In this way git help us to track the changes in the files.  
+
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
