@@ -1,0 +1,42 @@
+1.How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+   
+Ans1:When we are able to compare two different version of the same file we can very easily identify the bugs or typos in our code.  
+
+2.How could having easy access to the entire history of a file make you a more
+ efficient programmer in the long term?
+
+    
+Ans2: When we review our old codes ,we can see our work-progress and can reflect on it.Also if something goes wrong in the future with our code, we can revert back to our old code .This helps in fixing bug easily and less time consuming.Also in future we can avoid typos.This in all makes us more efficient programmer in future.
+
+3.What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    
+Ans3:Pros:>We can do commits as per our requirements ,i.e one commit  per one logical change.
+           Cons:>If we fail to commit at particular instances i.e during some significant changes in the file,then reviewing history is not much                       meaningful or helpful during debugging errors.  
+
+4.Fill in your answer here
+
+ Why do you think some version control systems, like Git, allow saving multiple 
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  
+Ans4:Version control system like git is devloped exclusively  for devlopers.They generally work on multiple files that are interrelated, thus change in one file can effect other implicitly.So it becomes important saving all the interrelated files in single commit.Where as google docs is built for general use.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
