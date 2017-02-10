@@ -1,1 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local?
+Ans:Remote repository enable us to keep a backup copy of the project with it's history.
+    Also it helps when different people collaborate to devlope a single project.
