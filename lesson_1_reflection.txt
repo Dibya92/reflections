@@ -16,21 +16,22 @@ docs does?
 
     
 Ans3:Pros:>We can do commits as per our requirements ,i.e one commit  per one logical change.
-           Cons:>If we fail to commit at particular instances i.e during some significant changes in the file,then reviewing history is not much                       meaningful or helpful during debugging errors.  
-
-4.Fill in your answer here
-
- Why do you think some version control systems, like Git, allow saving multiple 
-files in one commit, while others, like Google Docs, treat each file separately?
-
-  
-Ans4:Version control system like git is devloped exclusively  for devlopers.They generally work on multiple files that are interrelated, thus change in one file can effect other implicitly.So it becomes important saving all the interrelated files in single commit.Where as google docs is built for general use.
+     Cons:>If we fail to commit at particular instances i.e during some significant changes in the file,then 
+           reviewing  history is not much meaningful or helpful during debugging errors.  
 
 
 
-How can you use the commands git log and git diff to view the history of files?
+ 4.Why do you think some version control systems, like Git, allow saving multiple 
+  files in one commit, while others, like Google Docs, treat each file separately?
 
-    Fill in your answer here
+Ans4:Version control system like git is devloped exclusively  for devlopers.They generally work on multiple files that are     interrelated, thus change in one file can effect other implicitly.So it becomes important saving all the interrelated files in   single commit.Whereas google docs is built for general use.
+
+
+
+5.How can you use the commands git log and git diff to view the history of files?
+
+Ans5: 'git log' command is use to see the history of the commits,whereas 'git diff' command is use to compare files of different 
+       version.
 
 How might using version control make you more confident to make changes that
 could break something?
