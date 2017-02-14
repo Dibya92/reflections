@@ -33,10 +33,10 @@ Ans4:Version control system like git is devloped exclusively  for devlopers.They
 Ans5: 'git log' command is use to see the history of the commits,whereas 'git diff' command is use to compare files of different 
        version.
 
-How might using version control make you more confident to make changes that
-could break something?
+6.How might using version control make you more confident to make changes that
+ could break something?
 
-    Fill in your answer here
+ Ans6:Since with the help of version control we have the ability to revert back to the old state of the project, if something breaks down.    
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
